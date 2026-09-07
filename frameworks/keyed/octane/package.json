@@ -25,7 +25,7 @@
     "url": "https://github.com/krausest/js-framework-benchmark.git"
   },
   "dependencies": {
-    "octane": "0.2.5"
+    "octane": "0.2.6"
   },
   "devDependencies": {
     "@octanejs/vite-plugin": "0.1.53",
